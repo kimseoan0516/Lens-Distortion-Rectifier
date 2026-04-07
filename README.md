@@ -73,29 +73,12 @@ Lens-Distortion-Rectifier/
 
 ### 비교 이미지
 
-![왜곡 보정 전·후 비교](results/demo_comparison.jpg)
+![demo_comparison](https://github.com/user-attachments/assets/bbb8b0c3-2bdd-4f9d-91ed-ec39fada7534)
 
-*(로컬에서만 보이는 경우: `distortion_correction.py` 실행 후 `results/demo_comparison.jpg`가 생성됩니다.)*
 
 ### 결과 동영상
 
-`distortion_correction.py` 실행 후 생성되는 **왜곡 보정 완료 영상**(`results/corrected.avi`) 자리입니다.
-
-- **저장소에 영상을 올린 뒤** 아래 주석을 해제하거나, **YouTube·클라우드 링크**로 바꿔 사용하세요.
-- GitHub README에서 브라우저 재생이 잘 되게 하려면 **MP4**로 변환한 파일을 넣고 `src`를 그 경로로 맞추는 것이 좋습니다. (AVI는 브라우저·환경에 따라 재생이 안 될 수 있음)
-
-```html
-<!-- 아래 한 줄의 src를 실제 파일 경로 또는 업로드한 영상 URL로 수정하세요. -->
-<!-- <video src="results/corrected.mp4" controls width="720"></video> -->
-```
-
-**링크로만 표시할 때 (항상 동작):**
-
-[보정 완료 영상 보기 / 다운로드 — `results/corrected.avi`](results/corrected.avi)
-
-*(GitHub에 푸시 후 위 링크를 클릭하면 파일 페이지로 이동합니다. 인라인 재생이 필요하면 MP4 업로드 후 `<video>` 태그 또는 GitHub 이슈에 드래그한 영상 URL을 사용하세요.)*
-
----
+https://github.com/user-attachments/assets/31c687d7-f08d-4d12-83f1-1b02554b9103
 
 ## 5. 사용 방법
 
